@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # backend
 
 ## Tecnologies
@@ -23,3 +24,6 @@ Ignacio González Pagniello
 - mongod
 - docker build -t backend .
 - docker run -p 5000:5000 backend
+=======
+# backend
+>>>>>>> c15b4827022af00573ecc0dc0a35d4086333210d
